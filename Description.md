@@ -1,0 +1,1 @@
+Promptify is your one-click prompt beautifier. Paste in any messy, unstructured, or half-baked prompt and get back a single, clean, copy-ready instruction — with an expert persona, clear problem statement, and actionable steps. No fluff, no meta-commentary. Just the prompt, ready to go.
